@@ -1,8 +1,8 @@
 /* Calculo de aposentadoria */
 const nome = 'Jaqueline'
-const sexo = 'f'
-const idade = 25
-const contribuição = 6
+const sexo = 'F' //M OU F
+const idade = 25 //sua idade
+const contribuição = 6 //digite o tempo que você tem de contribuição para previdência
 
 const soma = (idade + contribuição)
 
